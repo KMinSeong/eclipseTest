@@ -5,6 +5,7 @@ public class test1 {
 		System.out.println("김민성");
 		System.out.println("20104");
 		System.out.println("세명컴퓨터고등학교");
+		System.out.println("은평구");
 	}
 
 }
